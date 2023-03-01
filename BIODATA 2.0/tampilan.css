@@ -1,0 +1,126 @@
+.aves{
+    margin-top: 4%;
+    border: 2px solid grey;
+    padding: 20px 20px;
+    width: 100%;
+    height: 314px;
+}
+
+.bves{
+    margin-top: 8.1%;
+    border: 2px solid grey;
+    padding: 20px 20px;
+    width: 100%;
+    height: 314px;
+
+}
+
+.cves{
+    margin-top: 3%;
+    border: 2px solid grey;
+    padding: 20px 20px;
+    width: 100%;
+}
+
+.background{
+    background-image: url(stripes.png);
+    background-size: 300px 320px;
+}
+
+.background1{
+    background-image: url(stripes.png);
+    background-size: 300px 346px;
+}
+
+.cves .projek {
+    height: 326px;
+}
+
+.div{
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  
+    -webkit-column-rule: 5px double black;
+    -moz-column-rule: 5px double black;
+    column-rule: 5px double black;
+}
+
+.subjudul {
+    padding: 10px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+.img1 {
+    border-radius: 100%;
+    border: 4px solid black;
+    width: 210px;
+    text-align: center;
+    left: 9%;
+    position: relative;
+}
+
+.garis {
+    border: 1px solid black;
+    background-color: black;
+    width: 45px;
+    text-align: left;
+    margin-bottom: -0.5%;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.garis1 {
+    border: 1px solid black;
+    background-color: black;
+    width: 35px;
+    text-align: left;
+}
+
+.cover{
+    background-size: cover;
+    height: 230px;
+    width: 100%;
+    background-position: center;
+    background-image: url(https://img.freepik.com/free-photo/metal-texture-with-dust-scratches-cracks-textured-backgrounds_1421-342.jpg?w=1060&t=st=1677632439~exp=1677633039~hmac=8c5537a0b62720ab18f77aa310a79a829a2741937bd13845b6451ac603789dc1);
+}
+
+.sector {
+    position: absolute;
+    top: 8%;
+    width: 100%;
+    text-align: center;
+    left: 0;
+}
+
+.sector .box {
+    display: inline-block;
+    border: 3px solid black;
+    padding: 5px 20px;
+}
+
+@font-face {
+    font-family: "adelia";
+    src: url('adelia.ttf');
+}
+
+.sector .box h1 {
+    color: black;
+    font-family: "adelia";
+    font-size: medium;
+}
+
+.sector .main-title {
+    font-family: "adelia";
+    font-size: 25px;
+    font-weight: 500;
+    color:black;
+}
+
+* {
+    box-sizing: border-box;
+}
