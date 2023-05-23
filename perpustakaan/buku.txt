@@ -1,0 +1,5 @@
+12B	Hujan	Tere Liye	Gramedia Pustaka Utama	2016	320	Romance, Fiction	db49527a2d1590fc73e91d64bf1bb6f4-hujan-cover.jpg
+13B	Komet	Tere Liye	Gramedia Pustaka Utama	2018	320	Fantasy, Fiction	2604fd149a445bdb03f4a9bd07683de0-komet-cover.jpg
+14B	11:11	Fiersa Besari	Media Kita	2018	302	Romance, Novels	febc34c5a7dd88d80393b0dfc8dee1c5-11-cover.jpg
+15B	Konspirasi Alam Semesta	Fiersa Besari	Media Kita	2015	244	Novels, Romance	eb190c690895b5c980874c152b95aa3f-konspirasi-alam-semesta-cover.jpg
+16B	Filosofi Teras	Henry Manampiring	Penerbit Buku Kompas	2018	344	Nonfiction, Mental Healt	9c06344179226ba9e651643b98efb97d-filosofi-teras-cover.jpg
